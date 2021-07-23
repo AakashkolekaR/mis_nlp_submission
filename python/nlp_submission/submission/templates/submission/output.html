@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% load static %}
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="{% static 'submission/css/output.css' %}" rel="stylesheet" media="all">
+    <title>NLP Output</title>
+</head>
+<body>
+    
+    <h4>Parts of Speech Tagging</h4>
+    <table id="results">
+        <tr>
+            <th>Tagged Sentences</th>
+        </tr>
+        {% for sentence in tagged_sentences %}
+            <tr>
+                <td>{{sentence}}</td>
+            </tr>
+        {% endfor %}
+    </table>
+
+    <h4>Statistics</h4>
+    <table id="results">
+        <tr>
+            <th>Total Sentences</th>
+            <th>Total Words Without Stopwords</th>
+            <th>Total Nouns</th>
+        </tr>
+        <tr>
+            <td>{{total_sentences}}</td>
+            <td>{{total_words_without_stop_words}}</td>
+            <td>{{total_nouns}}</td>
+        </tr>
+    </table>
+</body>
+</html>

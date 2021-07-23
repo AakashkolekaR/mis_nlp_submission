@@ -1,0 +1,25 @@
+==========
+Total no of sentences 8
+==========
+Total no of words 38
+==========
+Total no of nouns 15
+==========
+Tagged Sentences are
+==========
+[('Sukanya', 'NNP'), (',', ','), ('Rajib', 'NNP'), ('Naba', 'NNP'), ('good', 'JJ'), ('friends', 'NNS'), ('!', '.')]
+==========
+[('Sukanya', 'NNP'), ('getting', 'VBG'), ('married', 'VBN'), ('next', 'JJ'), ('year', 'NN'), ('.', '.')]
+==========
+[('Marriage', 'NN'), ('big', 'JJ'), ('step', 'NN'), ('one', 'CD'), ('’', 'NNP'), ('life', 'NN'), ('.', '.')]
+==========
+[('It', 'PRP'), ('exciting', 'VBG'), ('frightening', 'VBG'), ('.', '.')]
+==========
+[('But', 'CC'), ('friendship', 'NN'), ('sacred', 'VBD'), ('bond', 'NN'), ('people', 'NNS'), ('.', '.')]
+==========
+[('It', 'PRP'), ('special', 'JJ'), ('kind', 'NN'), ('love', 'VB'), ('us', 'PRP'), ('.', '.')]
+==========
+[('Many', 'JJ'), ('must', 'MD'), ('tried', 'VB'), ('searching', 'VBG'), ('friend', 'NN')]
+==========
+[('never', 'RB'), ('found', 'VBN'), ('right', 'RB'), ('one', 'CD'), ('.', '.')]
+==========
