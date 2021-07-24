@@ -9,6 +9,8 @@
     <title>NLP Output</title>
 </head>
 <body>
+    <h2 style="text-align: center; color: #8f0c7d;">NLP Submission Output</h2>
+    <hr>
     
     <h4>Parts of Speech Tagging</h4>
     <table id="results">
@@ -22,7 +24,7 @@
         {% endfor %}
     </table>
 
-    <h4>Statistics</h4>
+    <h4>Computations</h4>
     <table id="results">
         <tr>
             <th>Total Sentences</th>
@@ -35,5 +37,20 @@
             <td>{{total_nouns}}</td>
         </tr>
     </table>
+
+    <h4>Lemmatized List of Words</h4>
+    <table id="results">
+        <tr>
+            <th>Original Word</th>
+            <th>Lemma</th>
+        </tr>
+        {% for lemma in lemmas %}
+            <tr>
+                <td>{{lemma.0}}</td>
+                <td>{{lemma.1}}</td>
+            </tr>
+        {% endfor %}
+    </table>
+
 </body>
 </html>
