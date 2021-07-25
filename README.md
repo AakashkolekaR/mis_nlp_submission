@@ -51,10 +51,10 @@ sudo apt-get update
 ```
 <br>
 Installation steps for a windows system
-```
+<!-- ```
 curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 python get-pip.py
-```
+``` -->
 <br>
 
 Clone this repository
