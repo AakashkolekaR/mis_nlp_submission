@@ -38,34 +38,32 @@ A step by step series of examples that tell you how to get a development env run
 
 Python 3.4 and above come with the pip package pre-installed, however, in case of absence we can install pip.
 <br>
-Verifying the existence of the package.
+1. Verifying the existence of the package.
 ```
 pip help 
 ```
 <br>
 
-Installation steps for an ubuntu or unix system
+2. Installation steps for an ubuntu or unix system
 ```
 sudo apt-get install python3-pip
 sudo apt-get update
 ```
 <br>
-Installation steps for a windows system
+3. Installation steps for a windows system
 ```
 curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 python get-pip.py
 ```
 <br>
 
-Clone this repository
+4. Clone this repository
 <br>
 
-Install the required packages using requirements.txt (You can choose to install them individually as well)
+5. Install the required packages using requirements.txt (You can choose to install them individually as well using pip)
 ```
 pip install -r python/requirements.txt
 ```
-
-End with an example of getting some data out of the system or using it for a little demo.
 
 ## Usage <a name = "usage"></a>
 
