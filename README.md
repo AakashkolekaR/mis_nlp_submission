@@ -88,9 +88,10 @@ http://localhost:8000/home/
 
 Please find the below-mentioned application images for your reference
 
-<img src="output_images/home.png" raw="True">
+<!-- <img src="output_images/home.png" raw="True"> -->
+python/output_images/home.png
 <br>
-<img src="output_images/output.png">
+<!-- <img src="output_images/output.png"> -->
 
 
 Please feel free to reach out to me with any questions!!
