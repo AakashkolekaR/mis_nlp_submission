@@ -29,20 +29,21 @@ What things you need to install the software and how to install them.
 ```
 Python 3.6 or Higher
 ```
-<a href="https://www.python.org/downloads/"> This site can be used</a> 
+Note: <a href="https://www.python.org/downloads/"> This site can be used to install Python</a> 
 
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running.
 <br>
 
-Python 3.4 and above come with the pip package pre-installed, however, in case of absence we can install pip or pip3
+Python 3.4 and above come with the pip package pre-installed, however, in case of absence we can install pip.
 <br>
-Verifying the existence of the package
+Verifying the existence of the package.
 ```
 pip help 
 ```
 <br>
+
 Installation steps for an ubuntu or unix system
 ```
 sudo apt-get install python3-pip
