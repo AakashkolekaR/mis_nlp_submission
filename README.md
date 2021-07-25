@@ -9,8 +9,13 @@ MIS NLP Submission
 
 ## About <a name = "about"></a>
 
-This project is a Django Web Application that performs text processing on documents using <a href="https://www.nltk.org/book/">NLTK</a>.
-This project mainly takes a single sentence or multiple documents as inputs and provides us with some computations.
+This project is a Django Web Application that performs text processing on documents using <a href="https://www.nltk.org/book/">NLTK</a>. Furthermore, the project mainly takes a single sentence or multiple documents as inputs and provides us with some computations. <br>
+Mainly
+- Total number of Sentences
+- Total number of words (excluding stopwords)
+- Total number of nouns
+- Parts of Speech Tagged form of a sentence
+- Lemmas of all the words from all the documents
 
 ## Getting Started <a name = "getting_started"></a>
 
