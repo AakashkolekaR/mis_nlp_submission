@@ -88,9 +88,12 @@ http://localhost:8000/home/
 
 Please find the below-mentioned application images for your reference
 
+- The Home PAge
+
 <img width="964" src="https://github.com/AakashkolekaR/mis_nlp_submission/blob/560fd9f7dc0914cb0ec528f35c29e4e57b860e78/python/output_images/home.png">
 <br>
-<!-- <img src="output_images/output.png"> -->
+- The Output Page
+<img width="964" src="https://github.com/AakashkolekaR/mis_nlp_submission/blob/25c6c5b6d3a7bdcccbfe011907b540f22e652a0e/python/output_images/output.png">
 
 
 Please feel free to reach out to me with any questions!!
