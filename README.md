@@ -5,7 +5,7 @@ MIS NLP Submission
 - [About](#about)
 - [Getting Started](#getting_started)
 - [Usage](#usage)
-- [Contributing](../CONTRIBUTING.md)
+- [Additional Backend Work](#additionalwork)
 
 ## About <a name = "about"></a>
 
@@ -96,6 +96,13 @@ Please find the below-mentioned application images for your reference
 - The Output Page
 
 <img width="964" src="https://github.com/AakashkolekaR/mis_nlp_submission/blob/f70ffdce59a85b00637c4d7c66dfbc79883d68ad/python/output_images/output_new.png">
+
+<hr>
+
+## Additional Backend Work <a name = "additionalwork"></a>
+
+- I have also created a backend.py script located under the python directory that reads sentences from a text file (<a src="https://github.com/AakashkolekaR/mis_nlp_submission/blob/1365ef076dc658489ad5e5aa11870dec124a1ba3/python/backend_test.txt">backend_test.txt</a>) and writes the same output in another output file (<a src="https://github.com/AakashkolekaR/mis_nlp_submission/blob/1365ef076dc658489ad5e5aa11870dec124a1ba3/python/submission_output.txt">submission_output.txt</a>)
+
 
 
 Please feel free to reach out to me with any questions!!

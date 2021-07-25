@@ -4,7 +4,8 @@ from nltk.corpus.reader import lin
 from nltk.tokenize import word_tokenize, sent_tokenize
 stop_words = set(stopwords.words('english'))
 
-with open('backend_test.txt') as file:
+input_file = 'backend_test.txt'
+with open(input_file) as file:
     lines   =  file.readlines()
     lines = [line.split("\n")[0] for line in lines ]
 
