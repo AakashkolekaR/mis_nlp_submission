@@ -1,9 +1,9 @@
 ==========
-Total no of sentences 8
+Total no of sentences are 8
 ==========
-Total no of words 38
+Total no of words without stop words are 38
 ==========
-Total no of nouns 15
+Total no of nouns are 15
 ==========
 Tagged Sentences are
 ==========
@@ -23,3 +23,43 @@ Tagged Sentences are
 ==========
 [('never', 'RB'), ('found', 'VBN'), ('right', 'RB'), ('one', 'CD'), ('.', '.')]
 ==========
+Lemma for each word is as follows
+
+Sukanya  --------->  Sukanya
+Rajib  --------->  Rajib
+Naba  --------->  Naba
+good  --------->  good
+friends  --------->  friend
+Sukanya  --------->  Sukanya
+getting  --------->  getting
+married  --------->  married
+next  --------->  next
+year  --------->  year
+Marriage  --------->  Marriage
+big  --------->  big
+step  --------->  step
+one  --------->  one
+’  --------->  ’
+life  --------->  life
+It  --------->  It
+exciting  --------->  exciting
+frightening  --------->  frightening
+But  --------->  But
+friendship  --------->  friendship
+sacred  --------->  sacred
+bond  --------->  bond
+people  --------->  people
+It  --------->  It
+special  --------->  special
+kind  --------->  kind
+love  --------->  love
+us  --------->  u
+Many  --------->  Many
+must  --------->  must
+tried  --------->  tried
+searching  --------->  searching
+friend  --------->  friend
+never  --------->  never
+found  --------->  found
+right  --------->  right
+one  --------->  one
