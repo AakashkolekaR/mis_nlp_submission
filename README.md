@@ -27,15 +27,16 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them.
 
 ```
-Python 3.6 or Higher --> <a href="https://www.python.org/downloads/"> This site can be used</a> 
+Python 3.6 or Higher
 ```
+<a href="https://www.python.org/downloads/"> This site can be used</a> 
 
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running.
 <br>
 
-Python 3.4 and above come with the pip package, however in case of absence we can install pip3
+Python 3.4 and above come with the pip package pre-installed, however, in case of absence we can install pip or pip3
 <br>
 Verifying the existence of the package
 ```
