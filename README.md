@@ -81,11 +81,17 @@ cd python/nlp_submission
 python manage.py runserver
 ```
 
-- This will start the server. Use the below-mentioned to access the application
+- Use the below-mentioned endpoint to access the application
 ```
 http://localhost:8000/home/
 ```
 
+Please find the below-mentioned application images for your reference
 
-Please feel free to reach out to me!!
+<img src="output_images/home.png">
+<br>
+<img src="output_images/output.png">
+
+
+Please feel free to reach out to me with any questions!!
 
