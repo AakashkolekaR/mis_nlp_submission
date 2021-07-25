@@ -88,8 +88,7 @@ http://localhost:8000/home/
 
 Please find the below-mentioned application images for your reference
 
-<!-- <img src="output_images/home.png" raw="True"> -->
-python/output_images/home.png
+<img width="964" src="https://github.com/AakashkolekaR/mis_nlp_submission/blob/560fd9f7dc0914cb0ec528f35c29e4e57b860e78/python/output_images/home.png">
 <br>
 <!-- <img src="output_images/output.png"> -->
 
