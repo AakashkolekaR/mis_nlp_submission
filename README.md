@@ -1,5 +1,5 @@
 # Project Title
-
+MIS NLP Submission
 ## Table of Contents
 
 - [About](#about)
@@ -9,7 +9,8 @@
 
 ## About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+This project is a Django Web Application that performs text processing on documents using <a href="https://www.nltk.org/book/">NLTK</a>.
+This project mainly takes a single sentence or multiple documents as inputs and provides us with some computations.
 
 ## Getting Started <a name = "getting_started"></a>
 
